@@ -1,3 +1,3 @@
 test('eod demo', () => {
-    expect(true).toBe(false);
+    expect(true).toBe(true);
 })
